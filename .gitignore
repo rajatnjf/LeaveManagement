@@ -2,3 +2,5 @@
 /HR.LeaveManagement.Application/bin
 /HR.LeaveManagement.Domain/obj
 /HR.LeaveManagement.Domain/bin
+/.vs/HR.LeaveManagement/v16/.suo
+/HR.LeaveManagement.Application/*.user
