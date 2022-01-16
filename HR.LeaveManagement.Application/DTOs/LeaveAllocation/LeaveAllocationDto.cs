@@ -6,12 +6,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HR.LeaveManagement.Application.DTOs.LeaveRequest
+namespace HR.LeaveManagement.Application.DTOs.LeaveAllocation
 {
-    public class LeaveRequestListDto : BaseDto
+    public class LeaveAllocationDto : BaseDto
     {
+        public int NumberOfDays { get; set; }
         public LeaveTypeDto LeaveType { get; set; }
-        public DateTime? DateRequested { get; set; }
-        public bool? Approved { get; set; }
+        public int LeaveTypeId { get; set; }
+        public int Period { get; set; }
+
     }
 }
