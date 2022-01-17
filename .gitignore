@@ -4,3 +4,7 @@
 /HR.LeaveManagement.Domain/bin
 /.vs/HR.LeaveManagement/v16/.suo
 /HR.LeaveManagement.Application/*.user
+/HR.LeaveManagement.Persistence/bin
+/HR.LeaveManagement.Persistence/obj
+/HR.LeaveManagement.Infrastructure/bin
+/HR.LeaveManagement.Infrastructure/obj
